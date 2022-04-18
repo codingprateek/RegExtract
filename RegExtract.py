@@ -1,6 +1,7 @@
 import re
 import os
 import pandas as pd
+import yfinance as yf
 import streamlit as st
 
 names = ""
@@ -28,10 +29,9 @@ if input_type=='Text area':
 else:
     input_file=st.file_uploader("Enter txt file")
 result = st.sidebar.button('Generate TXT')
-csv_gen = st.sidebar.button('Generate CSV')
+csv_gen = st.sidebar.download_button('Generate CSV', data='output.csv')
 
 if result:
-
     if input_type=='Text area':
         if os.path.exists("input.txt"):
             os.remove("input.txt")
