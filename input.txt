@@ -1,0 +1,1143 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Faculty - UT Dallas Department of Computer Science - UT Dallas Department of Computer Science - The University of Texas at Dallas &#8211; Erik Jonsson School of Engineering and Computer Science</title>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://cs.utdallas.edu/xmlrpc.php">
+<link rel="icon" type="image/png" href="https://cs.utdallas.edu/wp-content/uploads/2016/04/UTD-Logo_02_Icon.png" />
+<!-- Jetpack Site Verification Tags -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="UT Dallas Department of Computer Science &raquo; Feed" href="https://cs.utdallas.edu/feed/" />
+<th>Name &amp; Position</th><th>Info</th></tr></thead><tbody>
+<tr>
+<td>
+<a name="a"></a><a href="https://cs.utdallas.edu/people/faculty/alagar-sridhar/" target="_blank" rel="noopener noreferrer">Alagar, Sridhar</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:sridhar@utdallas.edu">sridhar@utdallas.edu</a><br />
+(972) 883-4161<br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="a"></a><a href="https://cs.utdallas.edu/people/faculty/arnold-gordon/">Arnold, Gordon Leslie</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:gordon.arnold@utdallas.edu" target="_blank" rel="noopener noreferrer">gordon.arnold@utdallas.edu</a><br />
+(972) 883-7518<br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/bastani-farokh-b/">Bastani, Farokh B.</a><br />
+Professor and<br />
+Excellence in Education Chair<br />
+</td>
+<td>
+<a href="mailto:Farokh.Bastani@utdallas.edu">Farokh.Bastani@utdallas.edu</a><br />
+(972) 883-2299<br />
+<a href="http://www.utdallas.edu/~bastani/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="b"></a><a href="https://cs.utdallas.edu/people/faculty/eric-becker/">Becker, Eric</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td><a href="mailto:eric.becker@utdallas.edu">eric.becker@utdallas.edu</a><br />
+(972) 883-3862<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/bereg-sergey/">Bereg, Sergey</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:besp@utdallas.edu">besp@utdallas.edu</a><br />
+(972) 883-2364<br />
+<a href="http://www.utdallas.edu/~besp/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/borazjany-mehra/">Borazjany, Mehra</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Mehra@utdallas.edu">Mehra@utdallas.edu</a><br />
+(972) 883-2439<br />
+<a href="http://www.utdallas.edu/~mehra/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="c"></a><a href="https://cs.utdallas.edu/people/faculty/cankaya-ebru/">Cankaya, Ebru</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:ebru.cankaya@utdallas.edu">ebru.cankaya@utdallas.edu</a><br />
+(972) 883-2018<br />
+<a href="http://utdallas.edu/~exc067000/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chandrasekaran-r/">Chandrasekaran, R.</a><br />
+Ashbel Smith Professor<br />
+</td>
+<td>
+<a href="mailto:r.chandrasekaran@utdallas.edu" target="_blank" rel="noopener noreferrer">r.chandrasekaran@utdallas.edu</a><br />
+(972) 883-2032<br />
+<a href="http://www.utdallas.edu/~chandra/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chen-feng/">Chen, Feng</a><br />
+Associate Professor<br />
+</td>
+<td>
+<a href="mailto:feng.chen@utdallas.edu" target="_blank" rel="noopener noreferrer">feng.chen@utdallas.edu</a><br />
+972-883-6610<br />
+<a href="http://www.utdallas.edu/~fxc190007/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chida-anjum/">Chida, Anjum</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:anjum.chida@utdallas.edu" target="_blank" rel="noopener noreferrer">anjum.chida@utdallas.edu</a><br />
+(972) 883-6347<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wei-pang-chin/">Chin, Wei-Pang</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:wei-pang.chin@utdallas.edu" target="_blank" rel="noopener noreferrer">wei-pang.chin@utdallas.edu</a><br />
+(972) 883-4201<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chitturi-bhadrachalam/">Chitturi, Bhadrachalam</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:chalam@utdallas.edu" target="_blank" rel="noopener noreferrer">chalam@utdallas.edu</a><br />
+(972) 883-2136<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/christiansen-michael/">Christiansen, Michael</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:michael.christiansen@utdallas.edu">michael.christiansen@utdallas.edu</a><br />
+(972) 883-6906<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/chung-lawrence/">Chung, Lawrence</a><br />
+Associate Professor<br />
+</td>
+<td>
+<a href="mailto:Lawrence.Chung@utdallas.edu">Lawrence.Chung@utdallas.edu</a><br />
+(972) 883-2178<br />
+<a href="http://www.utdallas.edu/~chung/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/cobb-jorge/">Cobb, Jorge A.</a><br />
+Associate Professor and<br />
+Director of Graduate Studies<br />
+</td>
+<td>
+<a href="mailto:cobb@utdallas.edu">cobb@utdallas.edu</a><br />
+(972) 883-2479<br />
+<a href="http://utdallas.edu/~cobb/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/cole-john/">Cole, John</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:john.cole@utdallas.edu">john.cole@utdallas.edu</a><br />
+(972) 883-6353<br />
+<a href="http://www.utdallas.edu/~John.Cole/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="d"></a><a href="https://cs.utdallas.edu/people/faculty/daescu-ovidiu/">Daescu, Ovidiu</a><br />
+Professor and<br />
+Interim CS Department Head<br />
+</td>
+<td>
+<a href="mailto:ovidiu.daescu@utdallas.edu" target="_blank" rel="noopener noreferrer">ovidiu.daescu@utdallas.edu</a><br />
+(972) 883-4196<br />
+<a href="http://www.utdallas.edu/~daescu/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/davis-chris/">Davis, Chris Irwin</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:chrisirwindavis@utdallas.edu" target="_blank" rel="noopener noreferrer">chrisirwindavis@utdallas.edu</a><br />
+(972) 883-3574<br />
+<a href="http://www.utdallas.edu/~chrisirwindavis/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/dawande-milind/">Dawande, Milind</a><br />
+Ashbel Smith Professor<br />
+</td>
+<td>
+<a href="mailto:milind@utdallas.edu">milind@utdallas.edu</a><br />
+(972) 883-2793<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/degroot-doug/">DeGroot, Doug</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Doug.DeGroot@utdallas.edu">Doug.DeGroot@utdallas.edu</a><br />
+(972) 883-4200<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/desmedt-yvo/">Desmedt, Yvo</a><br />
+Jonsson Distinguished Professor<br />
+</td>
+<td>
+<a href="mailto:Yvo.Desmedt@utdallas.edu">Yvo.Desmedt@utdallas.edu</a><br />
+(972) 883-4536<br />
+<a href="http://www.utdallas.edu/~Yvo.Desmedt/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/dollinger-scott/">Dollinger, Scott</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:smd013000@utdallas.edu" target="_blank" rel="noopener noreferrer">smd013000@utdallas.edu</a><br />
+972-883-3880<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/doore-karen/">Doore, Karen</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:kdoore@utdallas.edu" target="_blank" rel="noopener noreferrer">kdoore@utdallas.edu</a><br />
+(972) 883-6328<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/du-ding-zhu/">Du, Ding-Zhu</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:dzdu@utdallas.edu">dzdu@utdallas.edu</a><br />
+(972) 883-6615<br />
+<a href="http://www.utdallas.edu/~dxd056000/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/erbatur-serdar/">Erbatur, Serdar</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:serdar.erbatur@utdallas.edu">serdar.erbatur@utdallas.edu</a><br />
+(972) 883-3890<br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="f"></a><a href="https://cs.utdallas.edu/people/faculty/farage-tim/">Farage, Tim</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:tfarage@utdallas.edu">tfarage@utdallas.edu</a><br />
+(972) 883-4836<br />
+<a href="http://www.utdallas.edu/~tfarage/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/farago-andras/" target="_blank" rel="noopener">Faragó, András</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Andras.Farago@utdallas.edu">Andras.Farago@utdallas.edu</a><br />
+(972) 883-6885<br />
+<a href="http://www.utdallas.edu/~farago/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/feng-ranran/">Feng, Ranran</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:rrfeng@utdallas.edu" target="_blank" rel="noopener noreferrer">rrfeng@utdallas.edu</a><br />
+(972) 883-4198<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/fishwick-paul/">Fishwick, Paul</a><br />
+Professor and<br />
+Distinguished Endowed Chair of Arts and Technology<br />
+</td>
+<td>
+<a href="mailto:paul.fishwick@utdallas.edu">paul.fishwick@utdallas.edu</a><br />
+(972) 883-4389<br />
+<a href="https://atec.utdallas.edu/content/fishwick-paul/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/fox-kyle/">Fox, Kyle</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:kyle.fox@utdallas.edu">kyle.fox@utdallas.edu</a><br />
+(972) 883-4168<br />
+<a href="http://utdallas.edu/~kyle.fox/">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="g"></a><a href="https://cs.utdallas.edu/people/faculty/gogate-vibhav/">Gogate, Vibhav</a><br />
+Assosicate Professor<br />
+</td>
+<td>
+<a href="mailto:vibhav.gogate@utdallas.edu">vibhav.gogate@utdallas.edu</a><br />
+(972) 883-4245<br />
+<a href="https://personal.utdallas.edu/~vibhav.gogate/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/goodrum-richard/">Goodrum, Richard</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Richard.Goodrum@utdallas.edu" target="_blank" rel="noopener noreferrer">Richard.Goodrum@utdallas.edu</a><br />
+(972) 883-8830<br />
+<a href="https://personal.utdallas.edu/~rag150330/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/guo-xiaohu/">Guo, Xiaohu</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:xguo@utdallas.edu">xguo@utdallas.edu</a><br />
+(972) 883-4723<br />
+<a href="http://www.utdallas.edu/~xguo/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/gupta-gopal/">Gupta, Gopal</a><br />
+Professor<br />
+and Erik Jonsson Chair<br />
+</td>
+<td>
+<a href="mailto:Gopal.Gupta@utdallas.edu">Gopal.Gupta@utdallas.edu</a><br />
+(972) 883-4107<br />
+<a href="http://www.utdallas.edu/~gupta/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/gupta-neeraj/">Gupta, Neeraj</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:neeraj.gupta@utdallas.edu" target="_blank" rel="noopener noreferrer">neeraj.gupta@utdallas.edu</a><br />
+(972)883-4656<br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="h"></a><a href="https://cs.utdallas.edu/people/faculty/haas-zygmunt/">Haas, Zygmunt</a><br />
+Professor and<br />
+Distinguished Chair in Computer Science<br />
+</td>
+<td>
+<a href="mailto:haas@utdallas.edu">haas@utdallas.edu</a><br />
+(972) 883-3571<br />
+<a href="http://utdallas.edu/~haas/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hamdy-omar/" target="_blank" rel="noopener">Hamdy, Omar</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Omar.Hamdy@UTDallas.edu">Omar.Hamdy@UTDallas.edu</a><br />
+(972) 883-2692<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hamlen-kevin/">Hamlen, Kevin</a><br />
+Professor<br />
+</td>
+<td>
+See website for email<br />
+(972) 883-4724<br />
+<a href="http://www.utdallas.edu/~hamlen/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/hao-shuang/" target="_blank" rel="noopener noreferrer">Hao, Shuang</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:shao@utdallas.edu">shao@utdallas.edu</a><br />
+(972) 883-4164<br />
+<a href="https://www.utdallas.edu/~shao/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/harabagiu-sanda/">Harabagiu, Sanda</a><br />
+Professor and<br />
+<a href="https://chairs.utdallas.edu/profiles/dr-sanda-harabagiu/">Research Initation Chair</a><br />
+</td>
+<td>
+<a href="mailto:sanda@utdallas.edu">sanda@utdallas.edu</a><br />
+(972) 883-4654<br />
+<a href="http://www.utdallas.edu/~sanda/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/huynh-d-t/">Huynh, D.T.</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:huynh@utdallas.edu">huynh@utdallas.edu</a><br />
+(972) 883-2169<br />
+(972) 883-6810<br />
+<a href="http://www.utdallas.edu/~huynh/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/iyer-rishabh/">Iyer, Rishabh</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:Rishabh.Iyer@utdallas.edu">Rishabh.Iyer@utdallas.edu</a><br />
+<a href="https://sites.google.com/view/rishabhiyer" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/jee-kangkook/">Jee, Kangkook</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:kangkook.jee@utdallas.edu">kangkook.jee@utdallas.edu</a><br />
+972-883-3863<br />
+<a href="https://kangkookjee.github.io" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="j"></a><a href="https://cs.utdallas.edu/people/faculty/jue-jason/">Jue, Jason</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Jason.Jue@utdallas.edu">Jason.Jue@utdallas.edu</a><br />
+(972) 883-4429<br />
+<a href="http://www.utdallas.edu/~jjue/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="k"></a><a href="https://cs.utdallas.edu/people/faculty/kantarcioglu-murat/">Kantarcioglu, Murat</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:muratk@utdallas.edu">muratk@utdallas.edu</a><br />
+(972) 883-6616<br />
+<a href="http://www.utdallas.edu/~mxk055100" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/karami-gity/">Karami, Gity</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:gity.karami@utdallas.edu">gity.karami@utdallas.edu</a><br />
+(972) 883-4204<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/karrah-shyam/">Karrah, Shyam</a><br />
+Professor of Instruction and<br />
+Director of Graduate Admissions<br />
+</td>
+<td>
+<a href="mailto:Shyam.Karrah@utdallas.edu">Shyam.Karrah@utdallas.edu</a><br />
+(972) 883-4197<br />
+<a href="http://www.utdallas.edu/~skarrah/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kamran-khan/">Khan, Kamran</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:kamran.khan@utdallas.edu">kamran.khan@utdallas.edu</a><br />
+(972) 883-3892<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/khan-latifur/">Khan, Latifur</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Latifur.Khan@utdallas.edu">Latifur.Khan@utdallas.edu</a><br />
+(972) 883-4137<br />
+<a href="http://utdallas.edu/~lkhan/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></p>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kim-Chung-Hwan/">Kim, Chung Hwan</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:chungkim@utdallas.edu">chungkim@utdallas.edu</a><br />
+(972)-883-3551<br />
+<a href="https://chungkim.io" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kim-jin-ryong">Kim, Jin Ryong</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:Jin.Kim@utdallas.edu">Jin.Kim@utdallas.edu</a><br />
+(972)-883-4139<br />
+<a href="https://jessekim.com/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/kumar-pushpa/">Kumar, Pushpa</a><br />
+Professor of Instruction</td>
+<td>
+<a href="mailto:pushpa.kumar@utdallas.edu">pushpa.kumar@utdallas.edu</a><br />
+(972) 883-6904<br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/le-khiem/">Le, Khiem</a><br />
+Associate Professor of Instruction</td>
+<td>
+<a href="mailto:Khiem.Le@utdallas.edu" target="_blank" rel="noopener">Khiem.Le@utdallas.edu</a><br />
+(972) 883-6217<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/liu-cong/">Liu, Cong</a><br />
+Associate Professor<br />
+</td>
+<td><a href="mailto:cong@utdallas.edu">cong.liu@utdallas.edu</a><br />
+(972) 883-3572<br />
+<a href="http://www.utdallas.edu/~cong" target="_blank" rel="noopener noreferrer">Website</a></td>
+</tr>
+<tr>
+<td>
+<a name="m"></a><a href="https://cs.utdallas.edu/people/faculty/andrian-marcus/">Marcus, Andrian</a><br />
+Professor<br />
+</td>
+<td><a href="mailto:amarcus@utdallas.edu" target="_blank" rel="noopener noreferrer">amarcus@utdallas.edu</a><br />
+(972) 883-4246<br />
+<a href="http://www.utdallas.edu/~amarcus/" target="_blank" rel="noopener noreferrer">Website</a></td>
+</tr>
+<tr>
+<td>
+<a name="m"></a><a href="https://cs.utdallas.edu/people/faculty/karen-mazidi/">Mazidi, Karen</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td><a href="mailto:karen.mazidi@utdallas.edu">karen.mazidi@utdallas.edu</a><br />
+(972) 883-3868<br />
+<a href="http://www.utdallas.edu/~kjm160430/" target="_blank" rel="noopener noreferrer">Website</a></td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/min-richard/">Min, Richard</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:richard.min@utdallas.edu" target="_blank" rel="noopener noreferrer">richard.min@utdallas.edu</a><br />
+(972) 883-4522<br />
+<a href="http://www.utdallas.edu/~rkm010300/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/mittal-neeraj/">Mittal, Neeraj</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:neerajm@utdallas.edu">neerajm@utdallas.edu</a><br />
+(972) 883-2347<br />
+<a href="http://www.utdallas.edu/~neerajm/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/moldovan-dan/">Moldovan, Dan</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:dan.moldovan@utdallas.edu" target="_blank" rel="noopener noreferrer">dan.moldovan@utdallas.edu</a><br />
+(972) 883-4838<br />
+<a href="http://www.hlt.utdallas.edu/~moldovan/" target="_blank" rel="noopener noreferrer" class="broken_link">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="n"></a><a href="https://cs.utdallas.edu/people/faculty/nagar-anurag/">Nagar, Anurag</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Anurag.Nagar@utdallas.edu" target="_blank" rel="noopener noreferrer">Anurag.Nagar@utdallas.edu</a><br />
+(972) 883-6345</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/narayanasami-priya/" target="_blank" rel="noopener">Narayanasami, Priya</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:priyan@utdallas.edu">priyan@utdallas.edu</a><br />
+(972) 883-2680<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/natarajan-sriraam/" target="_blank" rel="noopener noreferrer">Natarajan, Sriraam</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Sriraam.Natarajan@utdallas.edu">Sriraam.Natarajan@utdallas.edu</a><br />
+(972) 883-4163<br />
+<a href="http://utdallas.edu/~sriraam.natarajan/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/ng-vincent/">Ng, Vincent</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:vince@hlt.utdallas.edu">vince@hlt.utdallas.edu</a><br />
+(972) 883-4581<br />
+<a href="http://www.hlt.utdallas.edu/~vince/" target="_blank" rel="noopener noreferrer" class="broken_link">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/nguyen-nhut/">Nguyen, Nhut</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:nhut.nguyen@utdallas.edu">nhut.nguyen@utdallas.edu</a><br />
+(972) 883-4521<br />
+<a href="http://www.utdallas.edu/~nhutnn/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/tien-nguyen/">Nguyen, Tien</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:tien.n.nguyen@utdallas.edu">tien.n.nguyen@utdallas.edu</a><br />
+(972) 883-3893<br />
+<a href="http://www.utdallas.edu/~tien.n.nguyen/index.html" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/ntafos-simeon/">Ntafos, Simeon</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Simeon.Ntafos@utdallas.edu">Simeon.Ntafos@utdallas.edu</a><br />
+(972) 883-2809<br />
+<a href="http://www.utdallas.edu/~ntafos/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></div>
+<div><tr>
+<td><a name="o"></a></div>
+<div><a href="https://cs.utdallas.edu/people/faculty/omer-jalal/" target="_blank" rel="noopener">Omer, Jalal</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:jalal.omer@utdallas.edu">jalal.omer@utdallas.edu</a><a name="o"></a><br />
+(972) 883-2683</div>
+<div><a href="https://www.psut.edu.jo/sites/default/files/cv/Jalal%20Omer%20Atoum%20CV.pdf" target="_blank" rel="noopener">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="o"></a><a href="https://cs.utdallas.edu/people/faculty/ouyang-jessica/">Ouyang, Jessica</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:jessica.ouyang@utdallas.edu">jessica.ouyang@utdallas.edu</a><br />
+(972)-883-4688<br />
+<a href="http://utdallas.edu/~jessica.ouyang/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="o"></a><a href="https://cs.utdallas.edu/people/faculty/ozbirn-greg/">Ozbirn, Greg</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Greg.Ozbirn@utdallas.edu">Greg.Ozbirn@utdallas.edu</a><br />
+(972) 883-4725<br />
+<a href="http://utdallas.edu/~ozbirn/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="p"></a><a href="https://cs.utdallas.edu/people/faculty/page-ivor-p/">Page, Ivor P.</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:ivor.page@utdallas.edu" target="_blank" rel="noopener noreferrer">ivor.page@utdallas.edu</a><br />
+(972) 883-2160<br />
+<a href="http://www.utdallas.edu/~ivor/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/paulk-mark/">Paulk, Mark C.</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Mark.Paulk@utdallas.edu">Mark.Paulk@utdallas.edu</a><br />
+(972) 883-4839<br />
+<a href="http://utdallas.edu/~mcp130030/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/pervin-william/">Pervin, William</a><br />
+Professor Emeritus<br />
+</td>
+<td>
+<a href="mailto:pervin@utdallas.edu" target="_blank" rel="noopener noreferrer">pervin@utdallas.edu</a><br />
+(972) 883-2719<br />
+<a href="http://www.utdallas.edu/~pervin" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/prabhakaran-b/">Prabhakaran, B.</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:bprabhakaran@utdallas.edu">bprabhakaran@utdallas.edu</a><br />
+(972) 883-4680<br />
+<a href="http://www.utdallas.edu/~praba/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/prakash-ravi/">Prakash, Ravi</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:Ravi.Prakash@utdallas.edu">Ravi.Prakash@utdallas.edu</a><br />
+(972) 883-2289<br />
+<a href="http://utdallas.edu/~ravip/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/raghavachari-balaji/" target="_blank" rel="noopener">Raghavachari, Balaji</a><br />
+Professor Emeritus<br />
+</td>
+<td>
+<a href="mailto:Balaji.Raghavachari@utdallas.edu" target="_blank" rel="noopener noreferrer">Balaji.Raghavachari@utdallas.edu</a><br />
+(972) 883-2136<br />
+<a href="http://utdallas.edu/~rbk/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/raichel-benjamin/">Raichel, Benjamin</a><br />
+Associate Professor<br />
+</td>
+<td>
+<a href="mailto:benjamin.raichel@utdallas.edu" target="_blank" rel="noopener noreferrer">benjamin.raichel@utdallas.edu</a><br />
+(972) 883-4193<br />
+<a href="http://www.utdallas.edu/~bar150630/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/razo-razo-miguel/">Razo Razo, Miguel</a><br />
+Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:mrazo@utdallas.edu">mrazo@utdallas.edu</a><br />
+(972) 883-4240<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/nicholas-ruozzi/">Ruozzi, Nicholas</a><br />
+Associate Professor<br />
+</td>
+<td>
+<a href="mailto:nicholas.ruozzi@utdallas.edu">nicholas.ruozzi@utdallas.edu</a><br />
+(972) 883-4918<br />
+<a href="http://www.utdallas.edu/~nrr150130" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/salazar-elmer/">Salazar, Elmer</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:elmer.salazar@utdallas.edu">elmer.salazar@utdallas.edu</a><br />
+(972) 883-2329<br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/sarac-kamil/">Sarac, Kamil</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:ksarac@utdallas.edu">ksarac@utdallas.edu</a><br />
+(972) 883-2337<br />
+<a href="http://www.utdallas.edu/~ksarac/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="s"></a><a href="https://cs.utdallas.edu/people/faculty/satpute-meghana/">Satpute, Meghana</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:mns086000@utdallas.edu">mns086000@utdallas.edu</a><br />
+(972) 883-6100<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/schweitzer-haim/">Schweitzer, Haim</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:HSchweitzer@utdallas.edu">HSchweitzer@utdallas.edu</a><br />
+(972) 883-2238<br />
+<a href="http://www.utdallas.edu/~haim/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/smith-jason/">Smith, Jason</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Jason.Smith1@utdallas.edu">Jason.Smith1@utdallas.edu</a><br />
+(972) 883-4835<br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/smith-klyne/" target="_blank" rel="noopener">Smith, Klyne</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Klyne.Smith@utdallas.edu" target="_blank" rel="noopener">Klyne.Smith@utdallas.edu</a><br />
+(972) 883-4202<br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/solanki-m-nidhiben/">Solanki, Nidhiben</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:nidhis@utdallas.edu">nidhis@utdallas.edu</a><br />
+(972) 883-2165<br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/srinivasan-srimathi/" target="_blank" rel="noopener">Srinivasan, Srimathi </a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Srimathi.Srinivasan@utdallas.edu">Srimathi.Srinivasan@utdallas.edu</a><br />
+(972) 883-4512<br />
+</td>
+</tr></div>
+<div><tr>
+<td></div>
+<div><a href="https://cs.utdallas.edu/people/faculty-alumni/sudborough-i-hal/">Sudborough, I Hal</a><br />
+Professor Emeritus</div>
+<div></td></div>
+<div><td></div>
+<div><a href="mailto:Ivan.Sudborough@utdallas.edu" target="_blank" rel="noopener">Ivan.Sudborough@utdallas.edu</a></div>
+<div>(972) 883-2185</div>
+<div></td>
+</tr>
+<tr>
+<td>
+<a name="t"></a><a href="https://cs.utdallas.edu/people/faculty/thuraisingham-bhavani/">Thuraisingham, Bhavani</a><br />
+Louis A. Beecherl Jr. Distinguished Professor<br />
+</td>
+<td>
+<a href="mailto:bhavani.thuraisingham@utdallas.edu" target="_blank" rel="noopener noreferrer">bhavani.thuraisingham@utdallas.edu</a><br />
+(972) 883-4738<br />
+<a href="https://www.utdallas.edu/~bxt043000/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/thompson-laurie/">Thompson, Laurie</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Laurie.Thompson@utdallas.edu" target="_blank" rel="noopener noreferrer">Laurie.Thompson@utdallas.edu</a><br />
+(972) 883-6326<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/truemper-klaus/">Truemper, Klaus</a><br />
+Professor Emeritus<br />
+</td>
+<td>
+<a href="mailto:klaus.truemper@utdallas.edu" target="_blank" rel="noopener noreferrer">klaus.truemper@utdallas.edu</a><br />
+(972) 883-2712<br />
+<a href="https://www.utdallas.edu/~klaus/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="v"></a><a href="https://cs.utdallas.edu/people/faculty/veerasamy-jeyakesavan/">Veerasamy, Jeyakesavan</a><br />
+Associate Professor of Instruction<br />
+Director of the Center for CS<br />
+Education &amp; Outreach (<a href="https://utd.edu/k12/" target="_blank" rel="noopener noreferrer">CCSEO</a>)</td>
+<td><a href="mailto:jeyv@utdallas.edu">jeyv@utdallas.edu</a><br />
+(972) 883-4241<br />
+<a href="http://www.utdallas.edu/~jeyv/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/venkatesan-s/">Venkatesan, S.</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:subbarayan.venkatesan@utdallas.edu" target="_blank" rel="noopener noreferrer">subbarayan.venkatesan@utdallas.edu</a><br />
+(972) 883-2452<br />
+<a href="http://www.utdallas.edu/~venky/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wei-shiyi/" target="_blank" rel="noopener noreferrer">Wei, Shiyi</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:swei@utdallas.edu">swei@utdallas.edu</a><br />
+(972) 883-4167</div>
+<div><a href="https://personal.utdallas.edu/~swei/" target="_blank" rel="noopener">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="w"></a><a href="https://cs.utdallas.edu/people/faculty/willson-james/">Willson, James</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:jamesk.willsoniii@utdallas.edu">jamesk.willsoniii@utdallas.edu</a><br />
+(972) 883-6035<br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wong-w-eric/">Wong, W. Eric</a><br />
+Professor<br />
+Director of International Outreach<br />
+</td>
+<td>
+<a href="mailto:ewong@utdallas.edu">ewong@utdallas.edu</a><br />
+(972) 883-6619<br />
+<a href="http://www.utdallas.edu/~ewong/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/wu-weili/">Wu, Weili</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:weiliwu@utdallas.edu">weiliwu@utdallas.edu</a><br />
+(972) 883-2194<br />
+<a href="http://www.utdallas.edu/~weiliwu/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/xiang-yu/" target="_blank" rel="noopener">Xiang, Yu</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a name="x"></a><a href="mailto:yu.xiang@utdallas.edu">yu.xiang@utdallas.edu</a><br />
+(972) 883-3891<br />
+<a href="https://yuxng.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="y"></a><a href="https://cs.utdallas.edu/people/faculty/yang-wei/">Yang, Wei</a><br />
+Assistant Professor<br />
+</td>
+<td>
+<a href="mailto:I-Ling.Yen@utdallas.edu">wei.yang@utdallas.edu</a><br />
+(972) 883-4173<br />
+<a href="http://www.utdallas.edu/~wxy180002/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a name="y"></a><a href="https://cs.utdallas.edu/people/faculty/yen-i-ling/">Yen, I-Ling</a><br />
+Professor<br />
+</td>
+<td>
+<a href="mailto:I-Ling.Yen@utdallas.edu">I-Ling.Yen@utdallas.edu</a><br />
+(972) 883-6446<br />
+<a href="http://www.utdallas.edu/~ilyen/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/yuruk-nurcan/">Yuruk, Nurcan</a><br />
+Associate Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Nurcan.Yuruk@utdallas.edu">Nurcan.Yuruk@utdallas.edu</a><br />
+(972) 883-3575<br />
+<a href="https://personal.utdallas.edu/~nurcan.yuruk/" target="_blank" rel="noopener noreferrer">Website</a></td>
+</tr>
+<tr>
+<td>
+<a name="z"></a><a href="https://cs.utdallas.edu/people/faculty/zalila-wenkstern-rym/">Zalila-Wenkstern, Rym</a><br />
+Associate Professor<br />
+</td>
+<td>
+<a href="mailto:rymw@utdallas.edu" target="_blank" rel="noopener noreferrer">rymw@utdallas.edu</a><br />
+(972) 883-2091<br />
+<a href="http://www.utdallas.edu/~rmili/" target="_blank" rel="noopener noreferrer">Website</a><br />
+</td>
+</tr></div>
+<div><tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/zhang-kang/">Zhang, Kang</a><br />
+Professor Emeritus<br />
+</td>
+<td>
+<a href="mailto:Kang.Zhang@utdallas.edu" target="_blank" rel="noopener">Kang.Zhang@utdallas.edu</a><br />
+(972) 883-6351</div>
+<div><a href="http://utdallas.edu/~kzhang/" target="_blank" rel="noopener">Website</a><br />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://cs.utdallas.edu/people/faculty/zhao-yi/" target="_blank" rel="noopener">Zhao, Yi</a><br />
+Assistant Professor of Instruction<br />
+</td>
+<td>
+<a href="mailto:Yi.Zhao@UTDallas.edu" target="_blank" rel="noopener">Yi.Zhao@UTDallas.edu</a><br />
+(972) 883-2693<br />
+</td>
+</tr></div>
+<p></tbody>
+</table></div>
+<div></div>
+			
+</script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/plugins/responsive-menu/v4.0.0/assets/js/rmp-menu.js?ver=4.1.10' id='rmp_menu_scripts-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/bootstrap.min.js?ver=3.3.4' id='ta-music-bootstrap-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.flexslider.min.js?ver=2.2.0' id='ta-music-flexslider-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.isotope.min.js?ver=1.5.26' id='ta-music-isotope-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/imagesloaded.pkgd.min.js?ver=3.1.8' id='ta-music-imagesloaded-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/jquery.infinitescroll.min.js?ver=2.1.0' id='ta-music-infinitescroll-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/manual-trigger.js?ver=2.0b2.110617' id='ta-music-manual-trigger-js-js'></script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/audio.js?ver=495929cb80c174691e31a320af6cb3a2' id='ta-music-audio-js-js'></script>
+<script type='text/javascript' id='ta-music-app-js-js-extra'>
+/* <![CDATA[ */
+var cf = {"url":"https:\/\/cs.utdallas.edu\/wp-admin\/admin-ajax.php"};
+var ta_music = {"startPage":"1","maxPages":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cs.utdallas.edu/wp-content/themes/ta-music/js/app.js?ver=495929cb80c174691e31a320af6cb3a2' id='ta-music-app-js-js'></script>
+<script src='https://stats.wp.com/e-defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.8',blog:'108965885',post:'105',tz:'-5',srv:'cs.utdallas.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '105' ]);
+</script>
+
+</body>
+</html>
